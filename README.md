@@ -1,6 +1,8 @@
 # MovieDB
 Database of movies available in local directories
 
+<hr>
+
 Application Features:
 1. Select [multiple] directories to check for movie files.
 2. Go through selected directories and return names of all available movie type files in selected directories.
